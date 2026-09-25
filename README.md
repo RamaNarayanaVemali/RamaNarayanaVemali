@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rama Narayana Vemali
+#Pedda Rama Narayana Vemali
 
 **AI/ML Engineer | Multi-Agent Systems | NLP | Computer Vision | MLOps**
 
